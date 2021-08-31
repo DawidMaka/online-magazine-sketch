@@ -8,8 +8,8 @@ Technologies and tools I've used with this project:
   - Webpack
   - Figma
 
-  Live: https://web-devvv.github.io/online-magazine-sketch/
+  Live: https://DawidMaka.github.io/online-magazine-sketch/
 
-  Src: https://github.com/web-deVVV/online-magazine-sketch/tree/master/src
+  Src: https://github.com/DawidMaka/online-magazine-sketch/tree/master/src
 
   Sketch file: https://www.sketchappsources.com/free-source/4156-online-magazine-website-template-sketch-freebie-resource.html
